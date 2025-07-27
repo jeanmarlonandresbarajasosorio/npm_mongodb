@@ -1,6 +1,6 @@
-const { object } = requiret('mongodb');
+const { ObjectId } = require('personaje')
 
-const id = new objetc();
+const id = new Object();
 
 console.log(id);
 console.log(id.toString());
